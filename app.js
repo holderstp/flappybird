@@ -7,7 +7,7 @@ img.src = "/img/flappy-new.svg";
 // general settings
 let gamePlaying = false;
 const gravity = 0.5;
-const speed = 3.2;
+const speed = 6.2;
 const size = [51, 36];
 const jump = -11.5;
 const cTenth = canvas.width / 10;
